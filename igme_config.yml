@@ -1,0 +1,14 @@
+series: Intermediate C++
+title: Functors
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Overload the () operator to create objects that act like functions.
+language: C++
+tags:
+  - Core
+extra_resources:
+connections:
+  - series: Intermediate C++
+    title: Operator Overloading
