@@ -11,4 +11,4 @@ tags:
 extra_resources:
 connections:
   - series: Intermediate C++
-    title: Operator Overloading
+    title: Function Pointers
