@@ -50,7 +50,10 @@ int main()
     // Loop from -3 to 3, and calculate the point on the curve at each point:
     for (float x = -3; x <= 3; x++)
     {
-        float y = curve(x);
+		// here, we are using the object like a function
+        // just like how we use " f(x) " function in math classes
+		float y = curve(x);
+		
         cout << "(" << x << ", " << y << ")" << endl;   // Print out coordinate pairs.
     }
 
